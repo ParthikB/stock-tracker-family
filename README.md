@@ -1,6 +1,6 @@
 # Stock Tracker Family
 
-I recentyly started trading in Indian Stocks and Cryptos. It's really fun to check the prices and movements by logging into my waller account again and again and again and again and again and again and again and again and again and again.............wait...is it?
+I recently started trading in Indian Stocks and Cryptos. It's really fun to check the prices and movements by logging into my waller account again and again and again and again and again and again and again and again and again and again.............wait...is it?
 
 Then I asked myself, who am I?
 
