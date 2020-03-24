@@ -18,7 +18,13 @@ Thus, I built this little family of my own that contains (repos):
 NOTE: The so called 'App' was not deployed successfully on Android as 'pandas build recipe' has not been published yet. But, if anyone has a workaround, please feel free to contribute.
 
 ## Samples
+
+### App
 ![](stockapp.jpeg)
+
+### WebApp
 ![](stockweb.png)
+
+## SMS Notification
 ![](stocknotify.jpg)
 
