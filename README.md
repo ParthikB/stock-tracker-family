@@ -17,5 +17,8 @@ Thus, I built this little family of my own that contains (branches):
 
 NOTE: The so called 'App' was not deployed successfully on Android as 'pandas build recipe' has not been published yet. But, if anyone has a workaround, please feel free to contribute.
 
-
+## Samples
 ![](stockapp.jpeg)
+![](stockweb.png)
+![](stocknotify.jpg)
+
