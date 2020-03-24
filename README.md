@@ -16,3 +16,6 @@ Thus, I built this little family of my own that contains (branches):
 * stock-notify : A cloud script that works for me 24/7 to notify me if there is any sudden movement in the price action of a few things that I put on it, so that I'll be notified when I'm working out that it's time to make some money dude!
 
 NOTE: The so called 'App' was not deployed successfully on Android as 'pandas build recipe' has not been published yet. But, if anyone has a workaround, please feel free to contribute.
+
+
+![](stockapp.jpeg)
